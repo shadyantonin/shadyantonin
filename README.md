@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @shadyantonin i'm student who like coding in python and web languages, i'd like coding in nvim and vscode.
